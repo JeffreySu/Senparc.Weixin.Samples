@@ -50,3 +50,11 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/.vs
+/Senparc.Weixin.Sample.Net6.MinSample/Senparc.Weixin.Sample.Net6.MinSample/App_Data/SenparcTraceLog
+/Senparc.Weixin.Sample.Net6.MinSample/Senparc.Weixin.Sample.Net6.MinSample/App_Data/WeChat_OfficialAccount
+/Senparc.Weixin.Sample.Net6.MinSample/Senparc.Weixin.Sample.Net6.MinSample/bin
+/Senparc.Weixin.Sample.Net6.MinSample/Senparc.Weixin.Sample.Net6.MinSample/obj
+/Senparc.Weixin.Sample.Net6.MinSample/.vs/
+/Senparc.Weixin.Sample.Net6.MinSample/Senparc.Weixin.Sample.Net6.MinSample/appsettings.bak.Development.json
+/Senparc.Weixin.Sample.Net6.MinSample/Senparc.Weixin.Sample.Net6.MinSample/appsettings.bak.json

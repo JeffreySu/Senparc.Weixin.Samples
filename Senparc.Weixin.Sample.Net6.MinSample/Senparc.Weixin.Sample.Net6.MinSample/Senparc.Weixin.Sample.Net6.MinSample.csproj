@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Senparc.Weixin.MP" Version="16.12.101-preview2" />
+    <PackageReference Include="Senparc.Weixin.MP.Middleware" Version="0.3.100.1-preview2" />
+  </ItemGroup>
+
+</Project>
